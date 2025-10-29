@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PROGRAMACIÓN1",
+			"path": "G:/Mi unidad/PROGRAMACIÓN1"
+		},
+		{
+			"name": "moc_EC1",
+			"path": "../../../../Downloads/moc_EC1"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
